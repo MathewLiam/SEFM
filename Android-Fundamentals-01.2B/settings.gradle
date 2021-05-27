@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Android Fundamentals 01.2"
